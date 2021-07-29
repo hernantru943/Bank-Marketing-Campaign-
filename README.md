@@ -1,4 +1,4 @@
-# Bank-Marketing-Campaign-
+# BankMarketingCampaign
 Building a classification model to predict if a client will subscribe a term deposit investment account
 
 #### Question/need:
@@ -31,4 +31,5 @@ I will also use Tableau for visualization purposes since is an effective tool fo
 #### MVP Goal:
 * What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
 A minimum MVP will consist on plotting some data for visualization analysis with Tableau by comparing the target (users subscribeb to a term deposit - yes/no)with features such as age, marital status, education, last contact call duration, last contact day and month. The initial purpose of this analysis is to understant the relationships between them with the target and how they impact the results. Then we can consider this results when selecting our features to build our model.
-Here is a Tableau link with this preliminar visualization: https://public.tableau.com/app/profile/hernan.trujillo/viz/BankMarketing_16274215803320/LastContactbyMonth#1
+
+* Here is a Tableau link with this preliminar visualization: https://public.tableau.com/app/profile/hernan.trujillo/viz/BankMarketing_16274215803320/LastContactbyMonth#1
