@@ -25,21 +25,21 @@ Also, there are no features that are highly correlated and inversely correlated.
 
 #### Preliminar results on the basic Logistic Regression Model:
 
-Accuracy for Logistic Regression model is: 0.9047120418848168
+- Accuracy for Logistic Regression model is: 0.9047120418848168
 
-F1_score for Logistic Regression model is: 0.272
+- F1_score for Logistic Regression model is: 0.272
 
-Confusion matrix 
+- Confusion matrix 
 
  [[3388   40]
  
  [ 324   68]]
 
-AUC Score 0.7599326821075418
-roc_auc_score 0.5842295963106987
+- AUC Score 0.7599326821075418
+- roc_auc_score 0.5842295963106987
 
-Scoring on Training Data: 0.8982695942998401
-Scoring on Test Data: 0.9047120418848168
+- Scoring on Training Data: 0.8982695942998401
+- Scoring on Test Data: 0.9047120418848168
 
 #### Notes on Results:
 
