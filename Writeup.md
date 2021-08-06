@@ -35,16 +35,18 @@ The class imbalance for original dataset is 89% (negative) vs 11%(positive)
 
 ### Tools
 
-Tableau https://public.tableau.com/app/profile/hernan.trujillo/viz/BankMarketing_16274215803320/Dashboard1
-Pandas
-Numpy
-Sklearn
-LogisticRegression
-RandomForestClassifier
-Confusion_matrix
-Classification_report
-Matplotlib 
-Seaborn
+- Tableau https://public.tableau.com/app/profile/hernan.trujillo/viz/BankMarketing_16274215803320/Dashboard1
+- Pandas
+- Numpy
+- Sklearn
+- LogisticRegression
+- RandomForestClassifier
+- Confusion_matrix
+- Classification_report
+- Matplotlib 
+- Seaborn
+
+### Communication
 
 In terms of the categorical features (50% of the total features) importance, I found out the following observations:
 
@@ -61,3 +63,6 @@ In terms of the categorical features (50% of the total features) importance, I f
 - Poutcome: If a client took the term deposit last time then there is higher chances of that client subscribing to it again.
 
 Also, one of the crucial feature engineering work I did was transforming categorical data into numerical for modeling purposes.
+
+![Final Score F1 Models](https://user-images.githubusercontent.com/77758249/128502107-677bbf8f-155b-46f1-b696-49a344877c8e.png)
+
